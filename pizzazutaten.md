@@ -14,6 +14,7 @@
   - [ ] gewürze
 
 - belag
+
   - [ ] gauda
   - [ ] thunfisch (bio)
   - [ ] mais
@@ -21,11 +22,11 @@
   - [ ] babyspinat
   - [ ] knoblauch
 
--dessert
+- dessert
 
-- [ ] quark
-- [ ] frisches obst
-- [ ] schokolade
+  - [ ] quark
+  - [ ] frisches obst
+  - [ ] schokolade
 
 - getränke
   - [ ] Ginger Ale
