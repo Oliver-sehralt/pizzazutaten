@@ -21,6 +21,10 @@
   - [ ] feta
   - [ ] babyspinat
   - [ ] knoblauch
+  - [ ] Thunfisch
+  - [ ] Kapern
+  - [ ] Zwiebeln
+  - [ ] Röstzwiebeln
 
 - dessert
 
