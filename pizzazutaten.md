@@ -9,25 +9,25 @@
 
 - soße
 
-  - [ ]tomaten
-  - [ ]tomatenmark
-  - [ ]gewürze
+  - [ ] tomaten
+  - [ ] tomatenmark
+  - [ ] gewürze
 
 - belag
-  - [ ]gauda
-  - [ ]thunfisch (bio)
-  - [ ]mais
-  - [ ]feta
-  - [ ]babyspinat
-  - [ ]knoblauch
+  - [ ] gauda
+  - [ ] thunfisch (bio)
+  - [ ] mais
+  - [ ] feta
+  - [ ] babyspinat
+  - [ ] knoblauch
 
 -dessert
 
-- [ ]quark
-- [ ]frisches obst
-- [ ]schokolade
+- [ ] quark
+- [ ] frisches obst
+- [ ] schokolade
 
 - getränke
-  - [ ]Ginger Ale
-  - [ ]maracuja-saft
-  - [ ]sprudelwasser
+  - [ ] Ginger Ale
+  - [ ] maracuja-saft
+  - [ ] sprudelwasser
